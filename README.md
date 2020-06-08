@@ -5,7 +5,7 @@ Desperados 2 Coopers Revenge Resolution Fix
 
 2. Install Game
 
-# 3. (Easy way) Download the settings.ini file from this repo extract and paste it into this folder:
+# 3. (Easy way) Download the settings.xml file from this repo extract and paste it into this folder:
 C:\Program Files (x86)\Steam\steamapps\common\Desperados2\configuration\game\ 
 
 # 4.(Hard way)Go into C:\Program Files (x86)\Steam\steamapps\common\Desperados2\configuration\game\ 
