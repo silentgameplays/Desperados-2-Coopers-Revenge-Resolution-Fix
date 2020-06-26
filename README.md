@@ -24,7 +24,7 @@ C:\Program Files (x86)\Steam\steamapps\common\Desperados2\configuration\game\
 
 
 # Fresh install
-1.Uninstall through Steam
-2.Delete the Desperados2  folder from C:\Program Files (x86)\Steam\steamapps\common\
-3.Install again 
-4.Apply the fix
+1. Uninstall through Steam
+2. Delete the Desperados2  folder from C:\Program Files (x86)\Steam\steamapps\common\
+3. Install again 
+4. Apply the fix
