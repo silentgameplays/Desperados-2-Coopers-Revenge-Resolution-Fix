@@ -21,3 +21,10 @@ C:\Program Files (x86)\Steam\steamapps\common\Desperados2\configuration\game\
 < Attribute name="ENGINE_RESOLUTION_X" value="1920" type="slong"/ >
 
 < Attribute name="ENGINE_RESOLUTION_Y" value="1080" type="slong"/ >
+
+
+# Fresh install
+1.Uninstall through Steam
+2.Delete the Desperados2  folder from C:\Program Files (x86)\Steam\steamapps\common\
+3.Install again 
+4.Apply the fix
